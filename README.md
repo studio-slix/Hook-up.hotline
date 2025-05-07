@@ -93,24 +93,24 @@
 <body>
   <header>
     <h1>Studio Slix</h1>
-    <p class="tagline">Handmade Y2K Crochet Vibes</p>
+    <p class="tagline">Handmade Crochet Pieces</p>
   </header>
 
   <section class="items">
     <div class="item">
       <img src="https://via.placeholder.com/250x250.png?text=Funky+Hat" alt="Crochet Hat">
-      <h2>Funky Flare Hat</h2>
-      <p>$28</p>
+      <h2>Fitted Cap</h2>
+      <p>$60</p>
     </div>
     <div class="item">
       <img src="https://via.placeholder.com/250x250.png?text=Granny+Bag" alt="Crochet Bag">
-      <h2>Granny Square Bag</h2>
-      <p>$35</p>
+      <h2>Granny Square Hat</h2>
+      <p>$40</p>
     </div>
     <div class="item">
       <img src="https://via.placeholder.com/250x250.png?text=Butterfly+Top" alt="Crochet Top">
-      <h2>Butterfly Top</h2>
-      <p>$42</p>
+      <h2>K@WS Inspired Doll</h2>
+      <p>$100</p>
     </div>
   </section>
 
